@@ -2,16 +2,12 @@
 
 DIY Assist App is a custom Shopify application designed to extend store functionality and assist with custom integrations using the Shopify API.
 
----
-
 ## Description
 
 DIY Assist App is built to help Shopify store owners manage and integrate custom features that are not available by default in Shopify.
 The app connects with Shopify using the Shopify API and allows custom functionality to be added to the store.
 
 This project is intended for learning and development purposes, demonstrating how to build and integrate a custom Shopify app.
-
----
 
 ## Features
 
@@ -21,16 +17,12 @@ This project is intended for learning and development purposes, demonstrating ho
 - Backend logic for custom store operations
 - Scalable structure for adding new features
 
----
-
 ## Tech Stack
 
 - PHP
 - Shopify API
 - HTML / CSS
 - JavaScript
-
----
 
 ## Installation
 
@@ -50,31 +42,23 @@ cd diy-assist-app
 
 4. Run the application on your local development server.
 
----
-
 ## Usage
 
 - Install the custom app in your Shopify store.
 - Configure the required API credentials.
 - Use the app to extend store functionality and manage custom features.
 
----
-
 ## Project Purpose
 
 This project demonstrates how to build and integrate a custom Shopify app with Shopify stores using the Shopify API.
-
----
 
 ## Author
 
 Nasreen Shah
 
----
-
 ## Version
 
-# 1.0
+1.0
 
 # Shopify-Custom-App
 
