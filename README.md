@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # DIY Assist App – Shopify Custom App
 
 DIY Assist App is a custom Shopify application designed to extend store functionality and assist with custom integrations using the Shopify API.
@@ -39,7 +37,7 @@ This project is intended for learning and development purposes, demonstrating ho
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/diy-assist-app.git
+git clone https://github.com/Nasreen0786/Shopify-Custom-App.git
 ```
 
 2. Navigate to the project folder
@@ -81,5 +79,3 @@ Nasreen Shah
 # Shopify-Custom-App
 
 A custom Shopify app developed to extend store functionality and integrate custom features using the Shopify API.
-
-> > > > > > > 6f717e78381f74dda15d5752c2eceffefc5a5a73
